@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "client": "Kestrel Motors",
+    "title": "Showroom poster – A1",
+    "dueDate": "2026-10-02",
+    "status": "In progress",
+    "owner": "Lerato"
+  },
+  {
+    "id": 2,
+    "client": "Ridgeway Mining",
+    "title": "Annual report infographics",
+    "dueDate": "2026-10-20",
+    "status": "Pending",
+    "owner": "Sipho"
+  },
+  {
+    "id": 3,
+    "client": "Brightline Fibre",
+    "title": "Fibre campaign social set (12 posts)",
+    "dueDate": "2026-09-25",
+    "status": "Done",
+    "owner": "Thabo"
+  },
+  {
+    "id": 4,
+    "client": "Harbour Fleet Leasing",
+    "title": "Website fleet page banner",
+    "dueDate": "2026-10-06",
+    "status": "In progress",
+    "owner": "Naledi"
+  },
+  {
+    "id": 5,
+    "client": "Visit Karoo",
+    "title": "Travel agent email header",
+    "dueDate": "2026-09-30",
+    "status": "Pending",
+    "owner": "Lerato"
+  },
+  {
+    "id": 6,
+    "client": "Mooirivier Chemicals",
+    "title": "Safety week pull-up banners",
+    "dueDate": "2026-10-15",
+    "status": "Pending",
+    "owner": "Kagiso"
+  },
+  {
+    "id": 7,
+    "client": "Kestrel Motors",
+    "title": "4x4 bakkie spec sheet update",
+    "dueDate": "2026-09-28",
+    "status": "Done",
+    "owner": "Sipho"
+  },
+  {
+    "id": 8,
+    "client": "Nexa Tech",
+    "title": "Sales conference stage screens",
+    "dueDate": "2026-11-03",
+    "status": "In progress",
+    "owner": "Thabo"
+  },
+  {
+    "id": 9,
+    "client": "Umoya Telecoms",
+    "title": "Conference name badges",
+    "dueDate": "2026-10-28",
+    "status": "Pending",
+    "owner": "Naledi"
+  },
+  {
+    "id": 10,
+    "client": "AutoFind",
+    "title": "Concept app screens",
+    "dueDate": "2026-10-09",
+    "status": "In progress",
+    "owner": "Kagiso"
+  },
+  {
+    "id": 11,
+    "client": "Jozi Events Bureau",
+    "title": "Impact report layout",
+    "dueDate": "2026-10-01",
+    "status": "In progress",
+    "owner": "Lerato"
+  },
+  {
+    "id": 12,
+    "client": "Ridgeway Mining",
+    "title": "Site safety signage",
+    "dueDate": "2026-09-22",
+    "status": "Done",
+    "owner": "Thabo"
+  },
+  {
+    "id": 13,
+    "client": "Kestrel Motors",
+    "title": "SUV range brochure",
+    "dueDate": "2026-10-12",
+    "status": "Pending",
+    "owner": "Sipho"
+  },
+  {
+    "id": 14,
+    "client": "Brightline Fibre",
+    "title": "Radio script adaptation",
+    "dueDate": "2026-10-04",
+    "status": "In progress",
+    "owner": "Naledi"
+  },
+  {
+    "id": 15,
+    "client": "Two Tone",
+    "title": "25th anniversary invitation",
+    "dueDate": "2026-10-23",
+    "status": "Pending",
+    "owner": "Kagiso"
+  },
+  {
+    "id": 16,
+    "client": "Harbour Fleet Leasing",
+    "title": "LinkedIn carousel",
+    "dueDate": "2026-09-29",
+    "status": "Pending",
+    "owner": "Lerato"
+  },
+  {
+    "id": 17,
+    "client": "Visit Karoo",
+    "title": "Trade show booth artwork",
+    "dueDate": "2026-11-10",
+    "status": "Pending",
+    "owner": "Thabo"
+  },
+  {
+    "id": 18,
+    "client": "Mooirivier Chemicals",
+    "title": "Intranet homepage banner",
+    "dueDate": "2026-09-18",
+    "status": "Done",
+    "owner": "Naledi"
+  },
+  {
+    "id": 19,
+    "client": "AutoFind",
+    "title": "Creator marketplace icons",
+    "dueDate": "2026-10-30",
+    "status": "Pending",
+    "owner": "Sipho"
+  },
+  {
+    "id": 20,
+    "client": "Nexa Tech",
+    "title": "Email signature banner",
+    "dueDate": "2026-10-05",
+    "status": "Done",
+    "owner": "Kagiso"
+  }
+]

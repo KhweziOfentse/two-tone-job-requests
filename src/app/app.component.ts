@@ -12,6 +12,7 @@ import { JobRequestService } from './services/job-request.service';
 })
 export class AppComponent implements OnInit {
   title = 'two-tone-job-requests';
+//this part is for the job requests and the search and filter functionality
 
   jobs: JobRequest[] = [];
   searchTerm = '';
@@ -45,7 +46,7 @@ export class AppComponent implements OnInit {
   ngOnInit(): void {
     this.loadJobs();
   }
-
+// this section is for the loading of the jobs and the error handling
   loadJobs(): void {
     this.loading = true;
     this.errorMessage = '';
@@ -62,7 +63,7 @@ export class AppComponent implements OnInit {
         this.loading = false;
       });
   }
-
+  // this section is for the opening and closing of the form and the adding of a new job request. The form will only be submitted if all the required fields are filled out. The new job request will be added to the top of the list and the form will be reset.
   openForm(): void {
     this.showForm = true;
     this.submitted = false;
@@ -100,7 +101,7 @@ export class AppComponent implements OnInit {
     };
 
     this.jobs = [job, ...this.jobs];
-
+//the pending status will be the default status for a new job request. The form will be reset after the new job request is added to the list.
     this.newJob = {
       client: '',
       title: '',
@@ -124,6 +125,7 @@ export class AppComponent implements OnInit {
       return matchesSearch && matchesStatus;
     });
   }
+// this section is for the counts of the jobs based on their status
 
   get pendingCount(): number {
     return this.jobs.filter((job) => job.status === 'Pending').length;
